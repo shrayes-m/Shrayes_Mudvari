@@ -1,0 +1,81 @@
+/*
+Author: Shrayes Mudvari
+Date: 28/10/2025
+File Name: styles.css
+*/
+body{
+    background-color: rgb(98, 217, 253);
+}
+header{
+    text-align: center;
+
+}
+header a{
+    text-decoration: none;
+}
+body h1{
+    color: black;
+}
+nav{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    float: right;
+    font-weight: bold;
+    font-size: 1em;
+  
+}
+nav ul{
+    display: flex;
+    list-style: none;
+    gap: 40px;
+}
+nav ul li a{
+    text-decoration: none;
+     color: black;
+}
+form{
+    text-align: right;
+}
+#flex{
+
+    display: flex;
+}
+#flex p{
+    text-align: center;
+    font-size: 1.9em;
+}
+
+main{
+    clear: left;
+    background-color: rgb(145, 255, 250);
+    padding: 1%;
+    font-size: 1.25em;
+}
+main ul li{
+    list-style: none;
+}
+main  li{
+    list-style: none;
+}
+footer{
+    background-color: rgb(145, 255, 250);
+    font-size: 1.9em;
+    color: black;
+    text-align: center;
+}
+#centeralign{
+    font-size: 1.8em;
+    text-align: center;
+}
+#mail{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+#slogan{
+    font-size: 1.9em;
+    text-align: center;
+}
+#link{
+    font-weight: bold;
+    color: navy;
+    text-decoration: none;
+}
